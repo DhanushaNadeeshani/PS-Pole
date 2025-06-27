@@ -1,0 +1,6 @@
+{
+  "webapp": {
+    "access": "ANYONE",
+    "executeAs": "USER_ACCESSING"
+  }
+}
